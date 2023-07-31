@@ -1,0 +1,13 @@
+{
+  "port":,
+  "db": {
+    "host"     : "",
+    "user"     : "",
+    "password" : "",
+    "database" : ""
+  },
+  "security":{
+    "salt": "",
+    "tokenExpiration": 24
+  }
+}
