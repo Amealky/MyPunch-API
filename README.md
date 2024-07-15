@@ -1,6 +1,6 @@
 ``Reupload project from 2018 : This project was recovered so don't take commits into accounts``
 
-# MyPunch API 🥊
+ <h1 align="center">🥊 MyPunch API 🥊</h1>
 
 MyPunch API is the [ExpressJS](https://expressjs.com/fr/) based API used to store and send boxing session and data to the [MyPunch App](https://github.com/Amealky/MyPunch/tree/master)
 
